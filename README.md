@@ -1,2 +1,4 @@
 # Java-Programs
 Hello
+
+This repository contains various Java programs covering basic to advanced concepts.
