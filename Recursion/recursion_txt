@@ -1,0 +1,33 @@
+what is recursion?
+--> function calls itself called recursion (calls its cop itself)
+
+Algorithmetic approaches uses by recursion 
+    Generally,
+        1. Decrease and conquer approach
+            \ reducing by substraction or division
+               \ only one sub problem (ie., only one recursive call in the recurrence relation)
+        2. Divide and conquer approach 
+            \ reducing by substraction or division
+                \ a problem is sub-divided / reduced into more than one subproblem
+        3. Backtracking
+            \ 
+
+General part of recursion
+    1. Base condition(s) or Stopping condition(s)
+        \ known solution to stop the recursive call
+            \ when we are using the function with return type then this condition require 
+            \ when we are using the function without return type then base condition is optional 
+        
+    2. Recurrence relation 
+        \ recursive call(s) towards the base condition(s)
+
+
+Types of recursion
+=> Direct Recursion
+    1) Tail
+    2) Head
+    3) Tree
+    4) Nestedls -a
+
+
+=> In-Direct Recursion
