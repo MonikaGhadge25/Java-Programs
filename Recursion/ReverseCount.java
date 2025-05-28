@@ -27,6 +27,6 @@ class ReverseCount
         System.out.println(); 
         System.out.println("Straight count from 1 to " + n + ":");
         straightCount(n);
-        System.out.println(); 
+        System.out.println();
     }
 }
